@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P004_BasicViews</string>
+    <string name="hi">Some Text</string>
+    <string name="button_send">Send</string>
+    <string name="button_send1">Send1</string>
+    <string name="button_send2">Send2</string>
+    <string name="button_send3">Send3</string>
+    <string name="button_send4">Send4</string>
+    <string name="myscreen">MyScreen Test</string>
+</resources>
